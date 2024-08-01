@@ -1,0 +1,6 @@
+/* styling first sentence of index.html body */
+div {color:white; 
+    background-color:red; 
+    font-size:32px; 
+    text-align:center; 
+    font-weight:bold}
